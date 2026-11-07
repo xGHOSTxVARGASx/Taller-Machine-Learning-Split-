@@ -1,0 +1,21 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "lista5"
+version = "0.1.0"
+description = "Quinta lista de ejercicios de Introduccion al Machine Learning (Universidad El Bosque, 2026-2)"
+readme = "README.md"
+requires-python = ">=3.10"
+authors = [{ name = "Daniel Vargas" }]
+dependencies = [
+    "numpy>=1.26",
+    "pandas>=2.0",
+    "scipy>=1.11",
+    "scikit-learn>=1.3",
+    "matplotlib>=3.7",
+]
+
+[tool.setuptools.packages.find]
+where = ["src"]
