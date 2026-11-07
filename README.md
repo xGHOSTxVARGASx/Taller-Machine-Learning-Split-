@@ -1,7 +1,7 @@
 # Quinta lista de ejercicios — Introducción al Machine Learning
 
 Selección de variables y generalización.
-Universidad El Bosque · Programa de Matemáticas y Estadística · Semestre 2026–2
+Universidad El Bosque · Programa de Estadística · Semestre 2026–2
 **Autor:** Daniel Vargas
 
 Se predice el salario (`Salary`, en miles de dólares) de 263 jugadores de béisbol (datos *Hitters*)
